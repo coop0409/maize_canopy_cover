@@ -1,5 +1,7 @@
 Julian Cooper
+
 Cory Hirsch Lab
+
 University of Minnesota
 
 This directory contains the code and data for Cooper et al., 2024: Dissecting the temporal phenomics and genomics of maize canopy cover using UAV mediated image capture
@@ -20,6 +22,6 @@ Performed in R, performs AMMI and FW stability for each canopy cover trait metri
 5_BLUP_calculation
 Performed in R, calculate best linear unbiased predictions for inter and intra-year environments, and extracts standardized BLUP files for all traits including stability metrics.
 
-6) 6_temporal_GWAS
+6_temporal_GWAS
 Performed locally in R and remotely via the Minnesota Supercomputing Institute.
 Formats phenomic and genomic data and runs temporal GWAS on all canopy cover traits BLUPs. Merges significant SNP results based on linkage disequilibrium.
