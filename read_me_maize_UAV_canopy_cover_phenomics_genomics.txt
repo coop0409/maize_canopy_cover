@@ -23,3 +23,6 @@ Performed in R, calculate best linear unbiased predictions for inter and intra-y
 6) 6_temporal_GWAS
 Performed locally in R and remotely via the Minnesota Supercomputing Institute.
 Formats phenomic and genomic data and runs temporal GWAS on all canopy cover traits BLUPs. Merges significant SNP results based on linkage disequilibrium.
+
+7) supplemental_data
+Supplemental tables from manusccript. Contains raw phenotypic data, summary statistics, and significant marker information.
